@@ -33,5 +33,5 @@ Step3
 
 .Select 'create repository'
 
-![github step3](https://user-images.githubusercontent.com/32705189/31862160-6f583100-b6ee-11e7-8abc-5f3fd185fe4b.png)
+
 
