@@ -2,4 +2,4 @@
 # Introduction to FabLab
 
 
-FabLab @MESCE
+FabLab @MESCE is the only FabLab
