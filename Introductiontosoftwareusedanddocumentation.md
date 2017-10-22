@@ -33,5 +33,12 @@ Step3
 
 .Select 'create repository'
 
+Step4
 
+.Login to GitHub accound
+.Select 'Code' menu
+Select your already created project
+.Click on the edit button on the right side
+.The coding page appears,code it according to your need.For those who are new to coding a model of new page README.md is available.
+.After coding click 'Commit Changes' and see the updates
 
