@@ -16,7 +16,7 @@ At the heart of " FabLab-MESCE" is digital manufacturing technology,combininig 2
 ## Syllubus
 
 
-First Day-[Introduction to FabLab](http://kavyat96.github.io/Introduction to FabLab)
+First Day-[Introduction to FabLab](http://
 
 [day 1](http://kavyat96.github.io/day1)
 [day 2](http://kavyat96.github.io/day2)
