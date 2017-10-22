@@ -18,7 +18,7 @@ At the heart of " FabLab-MESCE" is digital manufacturing technology,combininig 2
 
 First Day-[Introduction to FabLab](http://kavyat96.github.io/IntroductiontoFabLab)
 
-Second Day-[Introduction to software used and Documentation](http://
+Second Day-[Introduction to software used and Documentation](http://kavyat96.github.io/Introductiontosoftwareusedanddocumentation)
 [day 1](http://kavyat96.github.io/day1)
 [day 2](http://kavyat96.github.io/day2)
 
