@@ -20,3 +20,8 @@ Step1
 Step2
 
 ![github step2](https://user-images.githubusercontent.com/32705189/31862089-269d162a-b6ed-11e7-93ba-c7a7be180488.png)
+
+Step3
+.Click '+' to create new repository
+.Give a suitable repository name with extension github.io
+.Select 'create repository'
