@@ -7,3 +7,7 @@ Autodesk 123D was a suite of hobbyist CAD and 3D modelling tools created by Auto
 
 # CURA
 ![cura](https://user-images.githubusercontent.com/32705189/31860862-4137c2b2-b6d6-11e7-8dda-5122d3065c0a.png)
+
+# Documentation using GitHub
+
+Good ducumentation is key to the success of any project.Making documentation accessible enable people to learn about a project,making it easy  to update ensures that documenatation stays relevent.Lets look how we can document our project using GitHub pages
