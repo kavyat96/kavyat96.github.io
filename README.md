@@ -9,6 +9,12 @@ EMAIL ID:kavyat116@gmail.com
 At the heart of " FabLab-MESCE" is digital manufacturing technology,combininig 2D ang 3D design with the latest fabrication technology.Embracing a board spectrum of methods ranging from CNC maching to 3D printing, and even PCB milling.It can produce a single unique product from a digital design in a matter of minutes-and at a very low cost in comparison to traditional tooling methods.
 
 "FabLab-MESCE" also hosts a number other technologies and equipments which provide broad manufacturing capability, including precision laser cutter and moulding and milling equipment through electronic components and circuit boards.
+
+
+![fablab mesce](https://user-images.githubusercontent.com/32705189/31858340-1ea766e8-b6aa-11e7-87fd-bcc6289b2976.jpg)
+
+
+
 [day 1](http://kavyat96.github.io/day1)
 [day 2](http://kavyat96.github.io/day2)
 [day 3](http://
