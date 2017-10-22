@@ -15,7 +15,7 @@ FabLab @MESCE is the only FabLab in the Malabar region.It was decided to conduct
 # LASER CUTTING/ENGRAVING MACHINE
 ![laser cutting](https://user-images.githubusercontent.com/32705189/31860269-aedeeff2-b6cc-11e7-964c-3511de16534e.jpg)
 
-# CNC MILLING
+# CNC MILLING MACHINE
 ![cnc milling](https://user-images.githubusercontent.com/32705189/31860328-23478250-b6cd-11e7-9fb1-0a3fb353cdc0.jpg)
 
 
