@@ -21,7 +21,7 @@ First Day-[Introduction to FabLab](http://kavyat96.github.io/IntroductiontoFabLa
 Second Day-[Introduction to software used and Documentation](http://kavyat96.github.io/Introductiontosoftwareusedanddocumentation)
 
 
-Third Day-[3D printing](http://
+Third Day-[3D printing](http://kavyat96.github.io/3Dprinting)
 
 
 Fourth Day-[Vinyl cutting](http://kavyat96.github.io/Vinylcutting)
