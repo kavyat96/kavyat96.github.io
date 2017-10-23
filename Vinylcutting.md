@@ -19,3 +19,19 @@ A vinyl cutter is a type of computer-controlled machine.Small vinyl cutters look
 
 *Now switch on the Roland Vinyl cutter and insert the Vinyl sheet and do the following: 
 
+
+
+
+1.Adjust the rollers to set the working environment.It is between the two rollers the pen needle would work.
+
+
+2.Now press"Enter" and move the cutting pen needle to the orgin.
+
+
+3.Set the orgin by pressing "Orgin".
+
+
+4.Adjust the "pen force" if required
+
+
+
