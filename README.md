@@ -28,6 +28,9 @@ Fourth Day-[Vinyl cutting](http://kavyat96.github.io/Vinylcutting)
 
 
 Fifth Day-[Laser cutting](http://kavyat96.github.io/Lasercutting)
+
+
+Sixth Day-[
 [day 1](http://kavyat96.github.io/day1)
 [day 2](http://kavyat96.github.io/day2)
 
