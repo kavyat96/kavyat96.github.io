@@ -22,7 +22,7 @@ Second Day-[Introduction to software used and Documentation](http://kavyat96.git
 
 
 
-Third Day-[Vinyl cutting](http://
+Third Day-[Vinyl cutting](http://kavyat96.github.io/Vinylcutting)
 [day 1](http://kavyat96.github.io/day1)
 [day 2](http://kavyat96.github.io/day2)
 
