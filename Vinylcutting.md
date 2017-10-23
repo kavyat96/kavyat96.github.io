@@ -34,4 +34,4 @@ A vinyl cutter is a type of computer-controlled machine.Small vinyl cutters look
 4.Adjust the "pen force" if required
 
 
-
+![vinyl cutter enter](https://user-images.githubusercontent.com/32705189/31892578-3c44ab56-b7be-11e7-9d24-6f0aa9f1b573.jpg)
