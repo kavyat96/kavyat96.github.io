@@ -7,6 +7,9 @@ A vinyl cutter is a type of computer-controlled machine.Small vinyl cutters look
 
 ## Steps for Vinyl cutting
 
+
 *Open CutStudio and design or write what we want.Right click and select"properties" and change the height and width of the text or picture. 
 
+
+*Now switch on the Roland Vinyl cutter and insert the Vinyl sheet and do the following: 
 
