@@ -36,3 +36,10 @@ Almost all machines accepts "gcode"file for operations.Similarly the ShopBot als
 
 *Finally the process need to be selected.Here we selected "Foam(rough cut 1/8)".
 
+
+
+
+
+![cns measures](https://user-images.githubusercontent.com/32705189/31945791-07b773a6-b885-11e7-897b-599a77745035.png)
+
+
