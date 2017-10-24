@@ -75,3 +75,9 @@ Once the "gcode"file is obtained,go for the machine adjustments.
 3.Once this is done select"Zero axis"and check all the three axis.(Refer the image)
 
 
+
+
+
+![cnc measures 2](https://user-images.githubusercontent.com/32705189/31946680-510fe162-b887-11e7-9b31-26776114308e.png)
+
+
