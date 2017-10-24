@@ -43,3 +43,35 @@ Almost all machines accepts "gcode"file for operations.Similarly the ShopBot als
 ![cns measures](https://user-images.githubusercontent.com/32705189/31945791-07b773a6-b885-11e7-897b-599a77745035.png)
 
 
+
+
+Once the "gcode"file is obtained,go for the machine adjustments.
+
+
+
+
+
+## Steps for PCB milling
+
+
+*First stick the material onto the sacrificial layer using a two side tape.
+
+
+
+*Now we need to set the Zero point.For setting the Zero point do the following:
+
+
+
+1.First move the bit to the appropriate position.
+
+
+
+
+2.Now move the bit down and set the bit in such a position that it just touches the surface.Use a paper sheet to ensure this.
+
+
+
+
+3.Once this is done select"Zero axis"and check all the three axis.(Refer the image)
+
+
